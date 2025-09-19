@@ -1,13 +1,13 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-5，无需翻墙）【9月持续更新】
 
-> **更新时间：2025/09/16**                 
+> **更新时间：2025/09/20**                 
 
 **全面体验 [ChatGPT 中文版](https://xsimplechat.com)，国内直连，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能！**
 
-本指南旨在为用户提供全面的 **ChatGPT 中文版使用指南**，同时整理了国内好用的 **[ChatGPT 镜像网站](https://chat.lanjingai.org)**和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
+本指南旨在为用户提供全面的 **ChatGPT 中文版使用指南**，同时整理了国内好用的 **[ChatGPT 镜像网站](https://gpt.lanjingai.org)**和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
 
 **ChatGPT 中文版入口：[https://xsimplechat.com](https://xsimplechat.com/)**   
-**ChatGPT 镜像网站：[https://chat.lanjingai.org](https://chat.lanjingai.org)**
+**ChatGPT 镜像网站：[https://gpt.lanjingai.org](https://gpt.lanjingai.org)**
 
 ---
 
@@ -40,7 +40,7 @@
 | 中文站网址                                   | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |----------------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
 | **[xsimplechat.com](https://xsimplechat.com)** | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
-| **[chat.lanjingai.org](https://chat.lanjingai.org)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户          |
+| **[gpt.lanjingai.org](https://gpt.lanjingai.org)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户          |
 | **[chat.lify.vip](https://chat.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 镜像网站**，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求   |
 | **[chat.chatgpt-chinese.com](https://gpt.lanjing.pro)** | GPT-4, GPT-4o, o1                | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini          | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
